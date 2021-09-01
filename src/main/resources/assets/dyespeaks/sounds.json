@@ -1,0 +1,65 @@
+{
+  "elisa.help_me": {
+    "trigger": "^\\?\\?\\?: Help me!$",
+    "subtitle": "subtitles.unknown",
+    "sounds": [
+      "dyespeaks:elisa/help_me"
+    ]
+  },
+  "elisa.hmm": {
+    "trigger": "^\\?\\?\\? Hmm\\.\\.\\..*",
+    "subtitle": "subtitles.unknown",
+    "sounds": [
+      "dyespeaks:elisa/hmm"
+    ]
+  },
+  "elisa.im_being_attacked": {
+    "trigger": "^\\?\\?\\?: I'm being attacked!$",
+    "subtitle": "subtitles.unknown",
+    "sounds": [
+      "dyespeaks:elisa/im_being_attacked"
+    ]
+  },
+  "elisa.oh_those_darn_goblins": {
+    "trigger": "^\\?\\?\\? Oh, those darn goblins!.*",
+    "subtitle": "subtitles.unknown",
+    "sounds": [
+      "dyespeaks:elisa/oh_those_darn_goblins"
+    ]
+  },
+  "elisa.oh_yes_i_am_thank": {
+    "trigger": "^\\?\\?\\? Oh, yes, I am! Thank you for your help!.*",
+    "subtitle": "subtitles.unknown",
+    "sounds": [
+      "dyespeaks:elisa/oh_yes_i_am_thank"
+    ]
+  },
+  "elisa.one_more": {
+    "trigger": "^\\?\\?\\?: One more!$",
+    "subtitle": "subtitles.unknown",
+    "sounds": [
+      "dyespeaks:elisa/one_more"
+    ]
+  },
+  "elisa.they_have_been_getting_more": {
+    "trigger": "^\\?\\?\\? They have been getting more dangerous lately….*",
+    "subtitle": "subtitles.unknown",
+    "sounds": [
+      "dyespeaks:elisa/they_have_been_getting_more"
+    ]
+  },
+  "elisa.theyre_not_bright_creatures_but": {
+    "trigger": "^\\?\\?\\? They’re not bright creatures, but they’re not total fools either\\.\\.\\..*",
+    "subtitle": "subtitles.unknown",
+    "sounds": [
+      "dyespeaks:elisa/theyre_not_bright_creatures_but"
+    ]
+  },
+  "elisa.you_look_hungry_why_dont": {
+    "trigger": "^\\?\\?\\? You look hungry. Why don't I repay you with dinner at my family's house?.*",
+    "subtitle": "subtitles.unknown",
+    "sounds": [
+      "dyespeaks:elisa/you_look_hungry_why_dont"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "dyespeaks",
+  "version": "${version}",
+  "name": "DyeSpeaks",
+  "description": "Makes the Dyescape characters speak.",
+  "authors": [
+    "NoahvdAa"
+  ],
+  "contact": {
+    "homepage": "https://github.com/NoahvdAa/DyeSpeaks",
+    "sources": "https://github.com/NoahvdAa/DyeSpeaks"
+  },
+  "license": "MIT",
+  "icon": "assets/dyespeaks/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "me.noahvdaa.dyespeaks.DyeSpeaks"
+    ]
+  },
+  "mixins": [
+    "dyespeaks-mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.16.x",
+    "java": ">=8"
+  }
+}
